@@ -12,17 +12,14 @@ public class Lab1_FirstName_LastName
     {
         // Step 1: Declare a String variable
         // Choose a meaningful name like: message, statement, whyStatement, etc.
-        // Example: String message;
         
         // Step 2: Assign a String value to your variable
         // Write a sentence about why you want to be a programmer
-        // Example: message = "I want to be a programmer because I enjoy solving problems.";
-        // Note: Replace the example with your own personal statement
         
         // Step 3: Display your String variable using println()
-        // Example: System.out.println(message);
         
-        // Your code goes here:
+        // Write your code under the steps above, or start your code goes here:
+        // Step 4: Add at least one comment explaining what your code does or why you wrote it that way
         
     }
 }
